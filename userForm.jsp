@@ -28,10 +28,10 @@
 			<td>Country :</td>
 			<td><form:select path="country">
 				<form:option value="0" label="Select" />
-				<form:option value="1" label="ANDHRA" />
-				<form:option value="2" label="HYD" />
-				<form:option value="3" label="US" />
-				<form:option value="4" label="VIZAG" />
+				<form:option value="1" label="SRI />
+				<form:option value="2" label="BENG" />
+				<form:option value="3" label="AMERICA" />
+				<form:option value="4" label="AP" />
 			</form:select></td>
 		</tr>
 		<tr>
